@@ -20,13 +20,7 @@ e) Verwende Kommentare im HTML-Code, um die verschiedenen Abschnitte der Seite 
 f) Stelle sicher, dass die Seite gut strukturiert ist und verwende universelle Tags, um den Inhalt sinnvoll zu gliedern. 
 
 __________________________________________________________________________________
-## Technologien
-
-- HTML5
-- Strukturierung mit semantischen Tags
-- Einbindung von Bildern, YouTube-Video und Audio
-
-__________________________________________________________________________________
+Dateien:
 
 Die Hauptdatei ist: `Alex Meier - Teilprüfung 1.html`
 Die Medien (Bilder, Audio) befinden sich im Projektordner.
@@ -35,3 +29,4 @@ ________________________________________________________________________________
 ## Ergebnis der Prüfung: 
 
 - 100%
+__________________________________________________________________________________
