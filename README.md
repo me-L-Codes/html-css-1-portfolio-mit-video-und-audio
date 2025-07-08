@@ -4,7 +4,8 @@ ________________________________________________________________________________
 # Teilprüfung 1 – Alex Meier Portfolio
 
 Dies ist eine Prüfungsaufgabe aus meiner Weiterbildung zur Webentwicklerin.  
-Ziel war es, eine vollständige HTML-Seite für einen fiktiven Künstler namens **Alex Meier** zu erstellen, inklusive Bildern, YouTube-Video und Hintergrundmusik.
+Ziel war es, grundlegende Kenntnisse in HTML anzuwenden, indem eine einfache Portfolio-Seite für einen fiktiven Künstler gestaltet wurde.
+Die Seite beinhaltet strukturierten Text, eingebundene Bilder, ein eingebettetes YouTube-Video sowie eine Audiodatei zur Untermalung.
 
 __________________________________________________________________________________
 ## Aufgabenstellung
@@ -20,13 +21,12 @@ e) Verwende Kommentare im HTML-Code, um die verschiedenen Abschnitte der Seite 
 f) Stelle sicher, dass die Seite gut strukturiert ist und verwende universelle Tags, um den Inhalt sinnvoll zu gliedern. 
 
 __________________________________________________________________________________
-Dateien:
+## Dateien:
 
 Die Hauptdatei ist: `Alex Meier - Teilprüfung 1.html`
 Die Medien (Bilder, Audio) befinden sich im Projektordner.
 
 __________________________________________________________________________________
 ## Ergebnis der Prüfung: 
-
 - 100%
 __________________________________________________________________________________
