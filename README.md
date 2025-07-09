@@ -12,28 +12,21 @@ Die Seite beinhaltet strukturierten Text, eingebundene Bilder, ein eingebettetes
 
 ## Aufgabenstellung
 
-Entwickle eine komplette HTML-Seite, die ein Portfolio für einen fiktiven Künstler namens **"Alex Meier"** darstellt.  
-Die Seite soll Informationen über den Künstler, Beispiele seiner Kunstwerke, ein Einführungsvideo und eine Hintergrundmusik enthalten,  
-die beim Besuch der Seite abgespielt wird.
+Entwickle eine komplette HTML-Seite, die ein Portfolio für einen fiktiven Künstler namens "Alex Meier" darstellt. Die Seite soll Informationen über den Künstler, Beispiele seiner Kunstwerke, ein Einführungsvideo und eine Hintergrundmusik enthalten, die beim Besuch der Seite abgespielt wird. 
 
-### Anforderungen:
+### Beachte dabei die folgenden Anforderungen:
 
-- **a)** Beginne die Seite mit einer Überschrift erster Ordnung, die den Namen des Künstlers enthält.  
-  Füge direkt darunter einen Absatz als kurze Einführung über den Künstler ein.
+- **a)** Beginne die Seite mit einer Überschrift erster Ordnung, die den Namen des Künstlers enthält. Füge direkt darunter einen Absatz (Paragraph) als kurze Einführung über den Künstler ein.
 
-- **b)** Verwende einen Zeilenumbruch, um zwischen der Einführung und einer Überschrift zweiter Ordnung für die Galerie der Kunstwerke zu trennen.  
-  Unter dieser Überschrift sollen mindestens drei Bilder eingefügt werden, die in einem eigenen Ordner auf dem Server liegen.  
-  Jedes Bild soll einen Alternativtext enthalten.
+- **b)** Verwende einen Zeilenumbruch, um zwischen der Einführung und einer Überschrift zweiter Ordnung für die Galerie der Kunstwerke zu trennen. Unter dieser Überschrift füge mindestens drei Bilder von Kunstwerken ein, die in einem eigenen Ordner auf deinem Server liegen. Verwende für jedes Bild einen Alternativtext.
 
-- **c)** Füge eine Überschrift zweiter Ordnung für ein Einführungsvideo ein.  
-  Binde darunter ein YouTube-Video über den Künstler mit dem `<iframe>`-Tag ein.
+- **c)** Nach der Galerie, füge eine Überschrift zweiter Ordnung für ein Einführungsvideo ein. Unter dieser Überschrift, binde ein Video über den Künstler ein, das auf YouTube gehostet wird. Verwende das IFrame-Tag, um das Video einzubetten.
 
-- **d)** Erstelle eine weitere Überschrift für die Hintergrundmusik.  
-  Darunter soll eine Musikdatei eingebunden werden, die automatisch abgespielt wird, aber vom Besucher gestoppt werden kann.
+- **d)** Unter dem Video, füge eine Überschrift zweiter Ordnung für Hintergrundmusik ein. Direkt darunter, binde eine Musikdatei ein, die automatisch abgespielt wird, wenn die Seite besucht wird, aber dem Besucher die Möglichkeit gibt, die Wiedergabe zu stoppen.
 
 - **e)** Verwende Kommentare im HTML-Code, um die verschiedenen Abschnitte der Seite zu kennzeichnen.
 
-- **f)** Achte darauf, dass die Seite gut strukturiert ist, und nutze semantische Standard-Tags zur sinnvollen Gliederung.
+- **f)** Stelle sicher, dass die Seite gut strukturiert ist und verwende universelle Tags, um den Inhalt sinnvoll zu gliedern. 
 
 
 
