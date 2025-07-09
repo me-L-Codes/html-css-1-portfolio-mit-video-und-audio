@@ -12,9 +12,8 @@ Die Seite beinhaltet strukturierten Text, eingebundene Bilder, ein eingebettetes
 
 ## Aufgabenstellung
 
-Entwickle eine komplette HTML-Seite, die ein Portfolio für einen fiktiven Künstler namens "Alex Meier" darstellt. Die Seite soll Informationen über den Künstler, Beispiele seiner Kunstwerke, ein Einführungsvideo und eine Hintergrundmusik enthalten, die beim Besuch der Seite abgespielt wird. 
-
-### Beachte dabei die folgenden Anforderungen:
+Entwickle eine komplette HTML-Seite, die ein Portfolio für einen fiktiven Künstler namens "Alex Meier" darstellt. Die Seite soll Informationen über den Künstler, Beispiele seiner Kunstwerke, ein Einführungsvideo und eine Hintergrundmusik enthalten, die beim Besuch der Seite abgespielt wird.
+Beachte dabei die folgenden Anforderungen:
 
 - **a)** Beginne die Seite mit einer Überschrift erster Ordnung, die den Namen des Künstlers enthält. Füge direkt darunter einen Absatz (Paragraph) als kurze Einführung über den Künstler ein.
 
