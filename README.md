@@ -18,10 +18,10 @@ die beim Besuch der Seite abgespielt wird.
 
 ### Anforderungen:
 
-**a)** Beginne die Seite mit einer Überschrift erster Ordnung, die den Namen des Künstlers enthält.  
+- **a)** Beginne die Seite mit einer Überschrift erster Ordnung, die den Namen des Künstlers enthält.  
   Füge direkt darunter einen Absatz als kurze Einführung über den Künstler ein.
 
-**b)** Verwende einen Zeilenumbruch, um zwischen der Einführung und einer Überschrift zweiter Ordnung für die Galerie der Kunstwerke zu trennen.  
+- **b)** Verwende einen Zeilenumbruch, um zwischen der Einführung und einer Überschrift zweiter Ordnung für die Galerie der Kunstwerke zu trennen.  
   Unter dieser Überschrift sollen mindestens drei Bilder eingefügt werden, die in einem eigenen Ordner auf dem Server liegen.  
   Jedes Bild soll einen Alternativtext enthalten.
 
@@ -35,14 +35,14 @@ die beim Besuch der Seite abgespielt wird.
 
 - **f)** Achte darauf, dass die Seite gut strukturiert ist, und nutze semantische Standard-Tags zur sinnvollen Gliederung.
 
----
+
 
 ## Dateien
 
 - Hauptdatei: `Alex Meier - Teilprüfung 1.html`  
 - Medien: Bilder und Audio befinden sich im Projektordner.
 
----
+
 
 ## Ergebnis der Prüfung
 
