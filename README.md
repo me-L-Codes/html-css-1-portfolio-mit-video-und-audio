@@ -1,6 +1,5 @@
-HTML_CSS_1
+# HTML_CSS_1
 
----
 
 
 # Teilprüfung 1 – Alex Meier Portfolio
@@ -9,7 +8,7 @@ Dies ist eine Prüfungsaufgabe aus meiner Weiterbildung zur Webentwicklerin.
 Ziel war es, **grundlegende Kenntnisse in HTML anzuwenden**, indem eine einfache Portfolio-Seite für einen fiktiven Künstler gestaltet wurde.  
 Die Seite beinhaltet strukturierten Text, eingebundene Bilder, ein eingebettetes YouTube-Video sowie eine Audiodatei zur Untermalung.
 
----
+
 
 ## Aufgabenstellung
 
@@ -19,10 +18,10 @@ die beim Besuch der Seite abgespielt wird.
 
 ### Anforderungen:
 
-- **a)** Beginne die Seite mit einer Überschrift erster Ordnung, die den Namen des Künstlers enthält.  
+**a)** Beginne die Seite mit einer Überschrift erster Ordnung, die den Namen des Künstlers enthält.  
   Füge direkt darunter einen Absatz als kurze Einführung über den Künstler ein.
 
-- **b)** Verwende einen Zeilenumbruch, um zwischen der Einführung und einer Überschrift zweiter Ordnung für die Galerie der Kunstwerke zu trennen.  
+**b)** Verwende einen Zeilenumbruch, um zwischen der Einführung und einer Überschrift zweiter Ordnung für die Galerie der Kunstwerke zu trennen.  
   Unter dieser Überschrift sollen mindestens drei Bilder eingefügt werden, die in einem eigenen Ordner auf dem Server liegen.  
   Jedes Bild soll einen Alternativtext enthalten.
 
