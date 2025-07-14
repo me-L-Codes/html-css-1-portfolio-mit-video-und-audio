@@ -1,7 +1,3 @@
-# html-css-1
-
-
-
 # Teilprüfung 1 – Alex Meier Portfolio
 
 Dies ist eine Prüfungsaufgabe aus meiner Weiterbildung zur Webentwicklerin.  
